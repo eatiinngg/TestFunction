@@ -18,5 +18,6 @@ void intMaxMin(void)
 
     printf("max = %d, %x\n", max, max);
     printf("min = %d, %x\n", min, min);
+    printf("edit by vin in local ubuntu\n");
 
 }
