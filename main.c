@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+#include "main.h"
 
-void intMaxMin(void);
+
 
 int main(void)
 {
@@ -23,3 +24,4 @@ void intMaxMin(void)
     printf("edit on github for test\n");
 
 }
+
